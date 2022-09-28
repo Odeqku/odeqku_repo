@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/alx-pre_course/0x01-git/js'
+let g:netrw_dirhist_5='/alx-pre_course/0x01-git/bash'
+let g:netrw_dirhist_4='/alx-pre_course/0x01-git/c'
+let g:netrw_dirhist_3='/alx-pre_course'
+let g:netrw_dirhist_2='/alx-pre_course/0x01-git'
+let g:netrw_dirhist_1='/alx-pre_course/0x01-git/c'
